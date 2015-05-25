@@ -36,7 +36,3 @@ class MyClass
 		return $this->lastName;
 	}
 }
-
-echo $mc = new MyClass();
-$mc->setFirstName('Johnny');
-echo $mc->getFirstName();
