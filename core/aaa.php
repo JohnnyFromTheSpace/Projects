@@ -38,6 +38,7 @@ class MyClass
 		return $this->lastName;
 	}
 }
+
 asdfasdf
-asdfasdf
+asdf asdfasdf asdfasdf asdf
 asdf
