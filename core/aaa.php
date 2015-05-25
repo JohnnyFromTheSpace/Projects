@@ -6,6 +6,8 @@ class MyClass
 	
 	private $lastName;
 	
+	private $city;
+	
 	public function __construct ()
 	{
 	
