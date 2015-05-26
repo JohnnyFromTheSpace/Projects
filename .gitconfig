@@ -1,1 +1,9 @@
+#
+# This is the config file, and
+# a '#' or ';' character indicates
+# a comment
+#
 
+[alias]
+lg1 = log --graph --abbrev-commit --decorate --date=relative --all
+lg2 = log --graph --abbrev-commit --decorate --all
